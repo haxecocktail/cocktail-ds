@@ -1,0 +1,8 @@
+{
+    "name": "cocktail-ds",
+    "url": "https://github.com/haxecocktail/cocktail-ds",
+    "licence": "MIT",
+    "version": "0.0.1",
+    "description": "Data structures for Cocktail",
+    "contributors": ["Yannick Dominguez"]
+}
